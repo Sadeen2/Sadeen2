@@ -55,7 +55,8 @@ Focused on pixel-perfect implementation and cross-device compatibility.
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sadeen-ryahi-6a9129340/ 
-- 💻 GitHub: https://github.com/Sadeen2  
+- 💻 GitHub: https://github.com/Sadeen2
+- Portfolio: https://sadeen-ryahi-portfolio.netlify.app/
 - 📧 Email: sadeenryahi66@gmail.com 
 
 ---
