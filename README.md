@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sadeen</h1>
-<h3 align="center">Frontend Developer 💻 | Vue.js & JavaScript</h3>
+<h1 align="center"> 👋 Hi, I'm Sadeen</h1>
+<h3 align="center">💻 Frontend Developer | Vue.js & JavaScript</h3>
 
 ---
 
