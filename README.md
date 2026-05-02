@@ -18,21 +18,21 @@
 #### 💬 Chat Application
 Responsive chat interface built using HTML, CSS, and JavaScript.  
 Focused on improving user experience and enabling smooth real-time interaction.  
-🔗 https://github.com/Sadeen2/NewChat_websit 
+🔗 https://github.com/Sadeen2/chat-application 
 
 ---
 
 #### 🏥 Dental Clinic Database System
 Patient management system with a user-friendly interface and structured data presentation.  
 Collaborated with backend to streamline data flow and enhance overall system performance.  
-🔗 https://github.com/Sadeen2/Bright-Smile-Clinic
+🔗 https://github.com/Sadeen2/dental-clinic-system
 
 ---
 
 #### 🌍 The Jerusalem Fund Website
 Responsive web pages developed from Figma designs using Vue.js.  
 Focused on pixel-perfect implementation and cross-device compatibility.  
-🔗 https://github.com/Sadeen2/The-Jerusalem-Fund
+🔗 https://github.com/Sadeen2/jerusalem-fund-website
 
 ---
 
