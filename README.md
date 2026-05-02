@@ -4,12 +4,12 @@
 ---
 
 ### 👩‍💻 About Me
-- 💻 Frontend Developer focused on building responsive and user-centered web applications  
-- ⚡ Experienced in Vue.js, JavaScript, HTML, and CSS  
-- 🚀 Built projects including chat applications and a clinic booking system  
-- 🔗 Experience in API integration and working with data (SQL, PHP, Python)  
-- 📈 Currently expanding into full stack development (Node.js & APIs)  
-- 🌱 Always learning and improving  
+ 💻 Frontend Developer focused on building responsive and user-centered web applications  
+ ⚡ Experienced in Vue.js, JavaScript, HTML, and CSS  
+ 🚀 Built projects including chat applications and a clinic booking system  
+ 🔗 Experience in API integration and working with data (SQL, PHP, Python)  
+ 📈 Currently expanding into full stack development (Node.js & APIs)  
+ 🌱 Always learning and improving  
 
 ---
 
